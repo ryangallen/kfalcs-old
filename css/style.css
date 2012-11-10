@@ -1,0 +1,69 @@
+body{
+	background:#f3940e;
+	font-family: 'Varela', sans-serif;
+}
+
+.navbar .logo{
+	width:100px;
+	height:90px;
+	padding-right:10px;
+	float:left;
+}
+
+.navbar h1{
+	padding-top:9px;
+	float:left;
+	color:#d8d8d8;
+}
+
+.navbar ul{
+	padding-top:15px;
+	font-size:1.3em;
+}
+
+.active a{color:#d8d8db;}
+
+#nav_roahl{
+	width:100px; 
+	height:100px;
+	padding-top:5px
+}
+
+.well{border:solid 1px #BA7600;}
+
+#gametime{background:#FFE8BF;font-family:Arial, Verdana, Helvetica, sans-serif;font-size:1.5em;}
+
+#slideshow{text-align:center;margin-bottom:20px;}
+#slideshow img{border-radius:4px;}
+
+#motto p{
+	font-size:1.8em;
+	line-height:1.5em;
+	letter-spacing:-1px;
+}
+
+footer{
+	margin-top: 45px;
+	padding: 35px 0 36px;
+	border-top: 1px solid #E5E5E5;
+}
+
+.schedule{
+background:#FAE8CA;
+border:solid 1px #333;
+width:60%;
+margin:10px auto;
+}
+
+.schedule th{background:#FCC15B;}
+
+.schedule th, .schedule td{
+border:solid 1px #333;
+text-align:left;
+padding:5px;
+}
+
+.away{background:#FFFDFA;}
+
+
+	
