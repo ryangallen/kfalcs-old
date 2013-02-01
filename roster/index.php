@@ -3,7 +3,6 @@
 	$assetsPath="../";
 	include '../includes/header.php';
 ?>
-
 		<div class="well">
 			<div id="rosterOptions">
 				<select id="rosterSelect">
@@ -53,7 +52,6 @@
 					</tr>
 					<tr><th colspan="2">Defensemen</th></tr>
 					<tr class="away">
-					<tr class="away">
 						<th>Name</th>
 						<th>#</th>
 					</tr>
@@ -82,7 +80,6 @@
 						<td>20</td>
 					</tr>
 					<tr><th colspan="2">Goaltender</th></tr>
-					<tr class="away">
 					<tr class="away">
 						<th>Name</th>
 						<th>#</th>
