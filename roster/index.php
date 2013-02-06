@@ -23,6 +23,10 @@
 						<td>43</td>
 					</tr>
 					<tr>
+						<td>Andy Ballard</td>
+						<td>24</td>
+					</tr>
+					<tr>
 						<td>Nick Cicchetti*</td>
 						<td>0</td>
 					</tr>
